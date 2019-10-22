@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Login test cases cross browser testing" duration-ms="154071" started-at="2019-08-25T07:22:32Z" finished-at="2019-08-25T07:25:06Z">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="46293" started-at="2019-08-25T07:22:32Z" finished-at="2019-08-25T07:23:18Z">
+      <class name="testcases.loginTestCase">
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:testcases.loginTestCase@546a03af]" name="initialize" is-config="true" duration-ms="11439" started-at="2019-08-25T12:52:32Z" finished-at="2019-08-25T12:52:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Home()[pri:0, instance:testcases.loginTestCase@546a03af]" name="Home" duration-ms="4486" started-at="2019-08-25T12:52:43Z" finished-at="2019-08-25T12:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@546a03af]" name="TeardownTest" is-config="true" duration-ms="750" started-at="2019-08-25T12:52:48Z" finished-at="2019-08-25T12:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:testcases.loginTestCase@546a03af]" name="initialize" is-config="true" duration-ms="7466" started-at="2019-08-25T12:52:49Z" finished-at="2019-08-25T12:52:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="forgotpassword()[pri:0, instance:testcases.loginTestCase@546a03af]" name="forgotpassword" duration-ms="791" started-at="2019-08-25T12:52:56Z" finished-at="2019-08-25T12:52:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@546a03af]" name="TeardownTest" is-config="true" duration-ms="915" started-at="2019-08-25T12:52:57Z" finished-at="2019-08-25T12:52:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:testcases.loginTestCase@546a03af]" name="initialize" is-config="true" duration-ms="7203" started-at="2019-08-25T12:52:58Z" finished-at="2019-08-25T12:53:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testcases.loginTestCase@546a03af]" name="login" duration-ms="2532" started-at="2019-08-25T12:53:05Z" finished-at="2019-08-25T12:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@546a03af]" name="TeardownTest" is-config="true" duration-ms="755" started-at="2019-08-25T12:53:08Z" finished-at="2019-08-25T12:53:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:testcases.loginTestCase@546a03af]" name="initialize" is-config="true" duration-ms="7554" started-at="2019-08-25T12:53:08Z" finished-at="2019-08-25T12:53:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="signup()[pri:0, instance:testcases.loginTestCase@546a03af]" name="signup" duration-ms="1485" started-at="2019-08-25T12:53:16Z" finished-at="2019-08-25T12:53:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@546a03af]" name="TeardownTest" is-config="true" duration-ms="852" started-at="2019-08-25T12:53:17Z" finished-at="2019-08-25T12:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- testcases.loginTestCase -->
+    </test> <!-- ChromeTest -->
+    <test name="FirefoxTest" duration-ms="107616" started-at="2019-08-25T07:23:18Z" finished-at="2019-08-25T07:25:06Z">
+      <class name="testcases.loginTestCase">
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:testcases.loginTestCase@45c8e616]" name="initialize" is-config="true" duration-ms="13207" started-at="2019-08-25T12:53:18Z" finished-at="2019-08-25T12:53:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Home()[pri:0, instance:testcases.loginTestCase@45c8e616]" name="Home" duration-ms="4204" started-at="2019-08-25T12:53:32Z" finished-at="2019-08-25T12:53:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@45c8e616]" name="TeardownTest" is-config="true" duration-ms="20000" started-at="2019-08-25T12:53:36Z" finished-at="2019-08-25T12:53:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:testcases.loginTestCase@45c8e616]" name="initialize" is-config="true" duration-ms="12899" started-at="2019-08-25T12:53:56Z" finished-at="2019-08-25T12:54:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="forgotpassword()[pri:0, instance:testcases.loginTestCase@45c8e616]" name="forgotpassword" duration-ms="993" started-at="2019-08-25T12:54:09Z" finished-at="2019-08-25T12:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@45c8e616]" name="TeardownTest" is-config="true" duration-ms="10810" started-at="2019-08-25T12:54:10Z" finished-at="2019-08-25T12:54:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:testcases.loginTestCase@45c8e616]" name="initialize" is-config="true" duration-ms="13339" started-at="2019-08-25T12:54:21Z" finished-at="2019-08-25T12:54:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testcases.loginTestCase@45c8e616]" name="login" duration-ms="1451" started-at="2019-08-25T12:54:34Z" finished-at="2019-08-25T12:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@45c8e616]" name="TeardownTest" is-config="true" duration-ms="9387" started-at="2019-08-25T12:54:35Z" finished-at="2019-08-25T12:54:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:testcases.loginTestCase@45c8e616]" name="initialize" is-config="true" duration-ms="12321" started-at="2019-08-25T12:54:45Z" finished-at="2019-08-25T12:54:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="signup()[pri:0, instance:testcases.loginTestCase@45c8e616]" name="signup" duration-ms="1155" started-at="2019-08-25T12:54:57Z" finished-at="2019-08-25T12:54:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@45c8e616]" name="TeardownTest" is-config="true" duration-ms="7823" started-at="2019-08-25T12:54:58Z" finished-at="2019-08-25T12:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- testcases.loginTestCase -->
+    </test> <!-- FirefoxTest -->
+  </suite> <!-- Login test cases cross browser testing -->
+</testng-results>

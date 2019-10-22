@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18251" started-at="2019-08-25T14:11:55Z" finished-at="2019-08-25T14:12:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18251" started-at="2019-08-25T14:11:55Z" finished-at="2019-08-25T14:12:13Z">
+      <class name="ssl.ssl_chrome">
+        <test-method status="PASS" signature="ssl_test()[pri:0, instance:ssl.ssl_chrome@7006c658]" name="ssl_test" duration-ms="18157" started-at="2019-08-25T19:41:55Z" finished-at="2019-08-25T19:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ssl_test -->
+      </class> <!-- ssl.ssl_chrome -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,15 @@
+AutoIT
+
+1. Goto Google type AUtoIT download. 
+2. Link https://www.autoitscript.com/site/autoit/downloads/
+3. Install it
+4. Open Au3Info.exe
+5. Open Calculator...
+Goto C:\Program Files (x86)\AutoIt3\SciTE\SciTE.exe
+6. Open AUtoIT script edito. 
+7. Test it for windowhandle- run and show screen  maximize automatically.
+8. COntrolSetText ...and run
+9. ControlClick and run
+
+ControlSetText("File Upload","","[CLASS:Edit;INSTANCE:1]","F:\Selenium\Screen1.png")
+ControlClick("File Upload","", "[CLASS:Button;INSTANCE:1]")

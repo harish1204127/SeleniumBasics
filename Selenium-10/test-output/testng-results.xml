@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestNG Learning" duration-ms="42935" started-at="2019-08-25T06:52:12Z" finished-at="2019-08-25T06:52:55Z">
+    <groups>
+    </groups>
+    <test name="Login test cases" duration-ms="42935" started-at="2019-08-25T06:52:12Z" finished-at="2019-08-25T06:52:55Z">
+      <class name="testcases.loginTestCase">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="initialize" is-config="true" duration-ms="9327" started-at="2019-08-25T12:22:12Z" finished-at="2019-08-25T12:22:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="Home()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="Home" duration-ms="2947" started-at="2019-08-25T12:22:22Z" finished-at="2019-08-25T12:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Home -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="TeardownTest" is-config="true" duration-ms="1452" started-at="2019-08-25T12:22:25Z" finished-at="2019-08-25T12:22:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="initialize" is-config="true" duration-ms="6240" started-at="2019-08-25T12:22:26Z" finished-at="2019-08-25T12:22:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="forgotpassword()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="forgotpassword" duration-ms="1475" started-at="2019-08-25T12:22:32Z" finished-at="2019-08-25T12:22:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotpassword -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="TeardownTest" is-config="true" duration-ms="1129" started-at="2019-08-25T12:22:34Z" finished-at="2019-08-25T12:22:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="initialize" is-config="true" duration-ms="6694" started-at="2019-08-25T12:22:35Z" finished-at="2019-08-25T12:22:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="login()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="login" duration-ms="3260" started-at="2019-08-25T12:22:42Z" finished-at="2019-08-25T12:22:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="TeardownTest" is-config="true" duration-ms="992" started-at="2019-08-25T12:22:45Z" finished-at="2019-08-25T12:22:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+        <test-method status="PASS" signature="initialize()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="initialize" is-config="true" duration-ms="7572" started-at="2019-08-25T12:22:46Z" finished-at="2019-08-25T12:22:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="signup()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="signup" duration-ms="935" started-at="2019-08-25T12:22:54Z" finished-at="2019-08-25T12:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method status="PASS" signature="TeardownTest()[pri:0, instance:testcases.loginTestCase@2b80d80f]" name="TeardownTest" is-config="true" duration-ms="847" started-at="2019-08-25T12:22:55Z" finished-at="2019-08-25T12:22:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TeardownTest -->
+      </class> <!-- testcases.loginTestCase -->
+    </test> <!-- Login test cases -->
+  </suite> <!-- TestNG Learning -->
+</testng-results>
